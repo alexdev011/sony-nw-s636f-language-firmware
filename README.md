@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.ibb.co/1YY72DHZ/f.jpg" width="240">
+  <img src="https://i.ibb.co/VpTNfL5Y/g.jpg" width="240">
+</p>
 # Sony Walkman NW-S636F (Japan / ICX1127) — Russian Language Firmware (v1.12)
 
 [Русский](#русский) | [English](#english)
