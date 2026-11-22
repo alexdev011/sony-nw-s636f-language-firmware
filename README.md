@@ -17,7 +17,7 @@
 ### Что изменено
 - **Русский язык в штатном интерфейсе:** пропатчен системный бинарник оболочки `/usr/local/bin/gemini-ICX1127` (добавлена локализация и доступ к выбору языка в меню).
 - **Версия прошивки:** `1.12` (на базе оригинальной японской `1.11`), чтобы официальный установщик Sony корректно определял обновление.
-- **Заводской функционал:** музыка, MP4/H.264 видео, FM-радио, настройки звука и подключение к ПК по USB работают в штатном режиме.
+- **Заводской функционал:** музыка, FM-радио, настройки звука и подключение к ПК по USB работают в штатном режиме.
 
 ### Содержимое
 - `FWUpdater.exe`, `FWUpdaterCom.dll`, `FWUpdaterRes.dll` — официальный установщик Sony.
@@ -52,7 +52,7 @@ Custom firmware (v1.12) for the Japanese **Sony Walkman NW-S636F** (`ICX1127` pl
 ### Changes
 - **Russian UI Localization:** Patched `/usr/local/bin/gemini-ICX1127` to add Russian localization and language switching support in the stock menu.
 - **Firmware Version:** Bumped to `1.12` (based on stock Japanese `1.11`) so the official Sony updater accepts the package.
-- **Stock Features Preserved:** Audio playback, MP4/H.264 video, FM tuner, sound settings, and USB mass storage remain fully functional.
+- **Stock Features Preserved:** Audio playback, FM tuner, sound settings, and USB mass storage remain fully functional.
 
 ### Package Contents
 - `FWUpdater.exe`, `FWUpdaterCom.dll`, `FWUpdaterRes.dll` — official Sony firmware updater.
