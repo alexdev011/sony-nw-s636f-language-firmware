@@ -82,3 +82,8 @@ Japanese units do not have the European volume cap, though the FM tuner is limit
 - Rockbox `scsitool` / `SonyNWDestTool`: [rockbox.org/wiki/SonyNWDestTool](https://www.rockbox.org/wiki/SonyNWDestTool)
 
 This firmware is provided "as is" without warranty of any kind. You are solely responsible for any data loss or device damage.
+
+- Sony Open Source Linux 2.6.10 kernel sources for NW-S636F: [oss.sony.net](https://oss.sony.net/Products/Linux/Audio/NWZ-S636F.html)
+- Rockbox `scsitool` / `SonyNWDestTool`: [rockbox.org/wiki/SonyNWDestTool](https://www.rockbox.org/wiki/SonyNWDestTool)
+
+This firmware is provided "as is" without warranty of any kind. You are solely responsible for any data loss or device damage.
